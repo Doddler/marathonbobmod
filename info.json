@@ -1,0 +1,9 @@
+{
+  "name": "marathonbob",
+  "version": "0.0.1",
+  "title": "Marathon Bob's Mod",
+  "author": "Doddler",
+  "homepage": " ",
+  "description": "Bigger, Slower, and Harder.",
+  "dependencies": ["base >= 0.12.0", "boblibrary >= 0.12.2", "? bobplates >= 0.12.0"]
+}
